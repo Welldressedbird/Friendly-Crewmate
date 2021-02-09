@@ -1,2 +1,3 @@
 # Friendly-Crewmate
-text RPG Top
+send, RPG Top
+return
